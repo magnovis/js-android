@@ -1065,7 +1065,7 @@ img {
 @media screen and (max-width: 939px) {
   .home_main1 {
     margin-right: 0px;
-    background: url('../images/main/home_bg1m.jpg') no-repeat center center;
+    background: url('https://4.bp.blogspot.com/-wTjCyCFnFCA/VsrEiw_czXI/AAAAAAAAP1Y/g-Df7Q0ddtw/s1600/home_bg1m.jpg') no-repeat center center;
     background-size: 100% auto;
     height: 470px;
     margin-top: 80px;
@@ -1073,7 +1073,7 @@ img {
 }
 @media screen and (min-width: 940px) {
   .home_main1 {
-    background: url('../images/main/home_bg1tjpg') no-repeat;
+    background: url('https://3.bp.blogspot.com/-_AybaPNjH_M/VsrEi3m5ElI/AAAAAAAAP1U/Ee6cbI2U4U0/s1600/home_bg1.jpg') no-repeat;
     background-size: auto 100%;
     background-position: center bottom;
     position: relative;
@@ -1082,7 +1082,7 @@ img {
 }
 @media screen and (min-width: 1170px) {
   .home_main1 {
-    background: url('../images/main/home_bg1.jpg') no-repeat center center;
+    background: url('https://2.bp.blogspot.com/-r6IzTpoiIYY/VsrEjcVrZII/AAAAAAAAP1c/YVrFQjLUqQs/s1600/home_bg1t.jpg') no-repeat center center;
     height: 720px;
     background-size: auto 100%;
   }
@@ -1423,7 +1423,7 @@ img {
 }
 @media screen and (min-width: 940px) {
   .home_main3 {
-    background: url('../images/main/home_bg3.jpg') no-repeat;
+    background: url('https://2.bp.blogspot.com/-0bK9_uxhTIA/VsrEka0pGUI/AAAAAAAAP1k/KCF9_YPcGls/s1600/home_bg3.jpg') no-repeat;
     background-size: cover;
     background-position: center bottom;
     position: relative;
@@ -1687,14 +1687,14 @@ img {
 }
 @media screen and (max-width: 939px) {
   .home_main4 {
-    background: url('../images/main/home_bg4m.jpg') no-repeat center top;
+    background: url('https://1.bp.blogspot.com/-gEreuPOqMrQ/VsrEkvdAPAI/AAAAAAAAP1o/ehl21jEJ8hI/s1600/home_bg4m.jpg') no-repeat center top;
     background-size: cover;
     height: 320px;
   }
 }
 @media screen and (min-width: 940px) {
   .home_main4 {
-    background: url('../images/main/home_bg4.jpg') no-repeat;
+    background: url('https://3.bp.blogspot.com/-tmujxbkuz3s/VsrEkVXIgGI/AAAAAAAAP1g/_MZQHWFAHFU/s1600/home_bg4.jpg') no-repeat;
     background-size: cover;
     background-position: center bottom;
     position: relative;
@@ -1703,7 +1703,7 @@ img {
 }
 @media screen and (min-width: 1170px) {
   .home_main4 {
-    background: url('../images/main/home_bg4.jpg') no-repeat center bottom;
+    background: url('https://3.bp.blogspot.com/-tmujxbkuz3s/VsrEkVXIgGI/AAAAAAAAP1g/_MZQHWFAHFU/s1600/home_bg4.jpg') no-repeat center bottom;
     height: 440px;
     background-size: cover;
   }
@@ -2539,7 +2539,7 @@ img {
     width: 100%;
     float: left;
     margin-top: 30px;
-    background: #fafafa url('../images/main/menu_bottom.jpg') no-repeat;
+    background: #fafafa url('https://4.bp.blogspot.com/-mMTVpRThqnU/VsrElJkXXoI/AAAAAAAAP1s/SIjXOstny3w/s1600/menu_bottom.jpg') no-repeat;
     height: 700px;
     background-position: center center;
   }
@@ -2705,13 +2705,13 @@ img {
 .package_fam {
   width: 100%;
   float: left;
-  background: url('../images/main/family_pic.jpg') no-repeat center 30%;
+  background: url('https://1.bp.blogspot.com/-4iIkAUIsx8c/VsrEiM8w0XI/AAAAAAAAP1Q/CH_JuA2eKHM/s1600/family_pic.jpg') no-repeat center 30%;
   height: 180px;
 }
 .package_exp {
   width: 100%;
   float: left;
-  background: url('../images/main/regular_pic.jpg') no-repeat center 10%;
+  background: url('https://4.bp.blogspot.com/-GOwzifWjbf0/VsrEloxTt1I/AAAAAAAAP10/8pCeMb1EfIU/s1600/regular_pic.jpg') no-repeat center 10%;
   height: 180px;
 }
 .package_recipe {
@@ -2920,7 +2920,7 @@ img {
   float: left;
 }
 .bannertop_mb {
-  background: url('../images/main/ordering_banner_m.jpg');
+  background: url('https://2.bp.blogspot.com/-ToTiOI1Ue5E/VsrElK3SLXI/AAAAAAAAP1w/uQM2hDifXJU/s1600/ordering_banner_m.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 200px;
@@ -2929,14 +2929,14 @@ img {
 }
 @media screen and (min-width: 992px) {
   #cookbook_banner {
-    background: url('../images/main/cookbook_banner.jpg') no-repeat;
+    background: url('https://4.bp.blogspot.com/-u_D2W_jb7vY/VsrEhb2BwMI/AAAAAAAAP1I/Y78UT_CLjbA/s1600/cookbook_banner.jpg') no-repeat;
     margin-bottom: 50px;
   }
 }
 .family_banner {
   height: 95vh;
   position: relative;
-  background: url('../images/main/family-landing.jpg');
+  background: url('https://1.bp.blogspot.com/-DHVnqhgzaJY/VsrEh1TNoVI/AAAAAAAAP1M/ETBvdqqIV0U/s1600/family-landing.jpg');
   background-repeat: no-repeat;
   width: 100%;
   float: left;
@@ -3020,7 +3020,7 @@ img {
   font-size: 24px;
   color: #fff;
   font-weight: bold;
-  background: url('../images/main/family-landing.jpg');
+  background: url('https://1.bp.blogspot.com/-DHVnqhgzaJY/VsrEh1TNoVI/AAAAAAAAP1M/ETBvdqqIV0U/s1600/family-landing.jpg');
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -4480,7 +4480,7 @@ nav {
   box-sizing: border-box;
 }
 .about_hero {
-  background: url('../images/main/aboutus-banner.jpg');
+  background: url('https://4.bp.blogspot.com/-qIsmr1AQzZQ/VsrEhV5IT6I/AAAAAAAAP1E/a00VkNNT5dQ/s1600/aboutus-banner.jpg');
   background-repeat: no-repeat;
   width: 1366px;
   margin: 0 auto;
@@ -5218,7 +5218,7 @@ nav {
   padding: 10px 20px;
   border: 1px dashed #ececec;
   box-sizing: border-box;
-  background: url('../images/main/add_box_lead.jpg') no-repeat;
+  background: url('https://1.bp.blogspot.com/-pO63uczmTrI/VsrEhSKX3YI/AAAAAAAAP1A/A18e6i8Q954/s1600/add_box_lead.jpg') no-repeat;
   background-size: cover;
   font-size: 14px;
   font-weight: 300;
@@ -5394,7 +5394,7 @@ nav {
 }
 @media screen and (max-width: 939px) {
   .subs_hero1_cont {
-    background: #fafafa url('../images/main/subs_1m.jpg') no-repeat center bottom;
+    background: #fafafa url('https://1.bp.blogspot.com/-Bofu9JLeT6E/VsrEmMyMiII/AAAAAAAAP14/e7jrBOYEhek/s1600/subs_1m.jpg') no-repeat center bottom;
     height: 100vh;
     margin: 80px 0 30px;
     background-size: cover;
@@ -5402,7 +5402,7 @@ nav {
 }
 @media screen and (min-width: 940px) {
   .subs_hero1_cont {
-    background: #fafafa url('../images/main/subs_1.jpg') no-repeat;
+    background: #fafafa url('https://4.bp.blogspot.com/-o6YUgvSeBJw/VsrEmE015CI/AAAAAAAAP18/FEofVk4caK8/s1600/subs_1.jpg') no-repeat;
     height: 900px;
     background-position: center center;
   }
@@ -5443,7 +5443,7 @@ nav {
   .subs_hero2_r {
     float: left;
     margin: 30px 0;
-    background: url('../images/main/subs_2m.jpg') no-repeat;
+    background: url('https://2.bp.blogspot.com/-w5sZSUHRUFE/VsrEm_NnDBI/AAAAAAAAP2E/nUXDSB1a5mY/s1600/subs_2m.jpg') no-repeat;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
@@ -5459,7 +5459,7 @@ nav {
     width: 50%;
     float: right;
     height: 100%;
-    background: url('../images/main/subs_2.jpg') no-repeat;
+    background: url('https://3.bp.blogspot.com/-oQzqHwyZLwM/VsrEmrdzVXI/AAAAAAAAP2A/tfRet_TlwZI/s1600/subs_2.jpg') no-repeat;
     background-position: left center;
     background-size: cover;
   }
@@ -5492,7 +5492,7 @@ nav {
     width: 300px;
     height: 200px;
     margin: 30px 0;
-    background: url('../images/main/subs_3m.jpg') no-repeat;
+    background: url('https://2.bp.blogspot.com/-Pcscn7Ljg04/VsrEnZYk7HI/AAAAAAAAP2M/fvh0VVWuzW0/s1600/subs_3m.jpg') no-repeat;
     background-position: center center;
   }
 }
@@ -5501,7 +5501,7 @@ nav {
     width: 50%;
     float: left;
     height: 100%;
-    background: url('../images/main/subs_3.jpg') no-repeat;
+    background: url('https://4.bp.blogspot.com/-BPLP3ecOl7I/VsrEnCnOWSI/AAAAAAAAP2I/Ym6YJ7dHG4s/s1600/subs_3.jpg') no-repeat;
     background-position: left center;
     background-size: cover;
   }
@@ -5527,7 +5527,7 @@ nav {
     transform: translateX(-50%);
     -webkit-transform: translateX(-50%);
     position: relative;
-    background: red url('../images/main/subs_4m.jpg') no-repeat;
+    background: red url('https://3.bp.blogspot.com/-QIVJpyFVaCg/VsrEnwRrwQI/AAAAAAAAP2U/i7wrnrRM4P8/s1600/subs_4m.jpg') no-repeat;
     background-position: center center;
     margin: 30px 0;
   }
@@ -5537,7 +5537,7 @@ nav {
     width: 50%;
     float: right;
     height: 100%;
-    background: red url('../images/main/subs_4.jpg') no-repeat;
+    background: red url('https://1.bp.blogspot.com/-Uk-i5cgfR7Q/VsrEnnQCmDI/AAAAAAAAP2Q/uk54vWYQJSI/s1600/subs_4.jpg') no-repeat;
     background-position: left center;
     background-size: cover;
   }
@@ -5563,7 +5563,7 @@ nav {
     transform: translateX(-50%);
     -webkit-transform: translateX(-50%);
     position: relative;
-    background: red url('../images/main/subs_5.jpg') no-repeat;
+    background: red url('https://3.bp.blogspot.com/-Z5it7aDHcqw/VsrJU-sAMQI/AAAAAAAAP2w/UNruzeYtd5Y/s1600/subs_5m.jpg') no-repeat;
     background-position: center center;
     margin: 30px 0;
   }
@@ -5573,7 +5573,7 @@ nav {
     width: 50%;
     float: left;
     height: 100%;
-    background: red url('../images/main/subs_5.jpg') no-repeat;
+    background: red url('https://4.bp.blogspot.com/-2EKsiTm3jQ8/VsrEoGSjcHI/AAAAAAAAP2Y/8rq4RCv_lIg/s1600/subs_5.jpg') no-repeat;
     background-position: left center;
     background-size: cover;
   }
@@ -5683,7 +5683,7 @@ nav {
   }
 }
 .amazingboxheader {
-  background-image: url(../images/amazing/wallpaperamazing.jpg) !important;
+  background-image: url('https://3.bp.blogspot.com/-aCG5As0VeCo/VsrEpWptP2I/AAAAAAAAP2c/2WxhHUswseM/s1600/wallpaperamazing.jpg') !important;
   background-position: center center !important;
   background-size: cover;
   width: 100%;
@@ -5692,14 +5692,14 @@ nav {
 }
 @media screen and (max-width: 939px) {
   .amazingboxheader {
-    background: url('../images/main/home_bg4m.jpg') no-repeat center top;
+    background: url('https://1.bp.blogspot.com/-gEreuPOqMrQ/VsrEkvdAPAI/AAAAAAAAP1o/ehl21jEJ8hI/s1600/home_bg4m.jpg') no-repeat center top;
     background-size: cover;
     height: 320px;
   }
 }
 @media screen and (min-width: 940px) {
   .amazingboxheader {
-    background: url('../images/main/home_bg4.jpg') no-repeat;
+    background: url('https://3.bp.blogspot.com/-tmujxbkuz3s/VsrEkVXIgGI/AAAAAAAAP1g/_MZQHWFAHFU/s1600/home_bg4.jpg') no-repeat;
     background-size: cover;
     background-position: center bottom;
     position: relative;
@@ -5708,7 +5708,7 @@ nav {
 }
 @media screen and (min-width: 1170px) {
   .amazingboxheader {
-    background: url('../images/main/home_bg4.jpg') no-repeat center bottom;
+    background: url('https://3.bp.blogspot.com/-tmujxbkuz3s/VsrEkVXIgGI/AAAAAAAAP1g/_MZQHWFAHFU/s1600/home_bg4.jpg') no-repeat center bottom;
     height: 440px;
     background-size: cover;
   }
@@ -5738,7 +5738,7 @@ nav {
 .package_promo {
   width: 100%;
   float: left;
-  background: url('../images/main/family_pic.jpg') no-repeat center 30%;
+  background: url('https://1.bp.blogspot.com/-4iIkAUIsx8c/VsrEiM8w0XI/AAAAAAAAP1Q/CH_JuA2eKHM/s1600/family_pic.jpg') no-repeat center 30%;
   height: 180px;
   background-color: white;
   background-size: 100% auto;
@@ -5941,7 +5941,7 @@ nav {
   width: 100%;
   float: left;
   box-sizing: border-box;
-  background-image: url(../images/aboutus/wallpaper.jpg) !important;
+  background-image: url('https://1.bp.blogspot.com/-SI2wfiLS7_I/VsrEpqFaIaI/AAAAAAAAP2g/WeoYjMSs0jE/s1600/wallpaper.jpg') !important;
   background-position: center center !important;
   background-size: cover;
 }
