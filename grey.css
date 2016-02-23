@@ -782,6 +782,9 @@ img {
 .bottom2_cont {
   box-sizing: border-box;
   color: #747474;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
   position: relative;
   font-weight: 700;
   text-align: center;
@@ -793,7 +796,11 @@ img {
 }
 @media screen and (min-width: 992px) {
   .bottom2_cont ul {
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
     position: relative;
+    width: 730px;
     padding-bottom: 25px;
   }
 }
