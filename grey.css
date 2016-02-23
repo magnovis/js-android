@@ -796,11 +796,13 @@ img {
 }
 @media screen and (min-width: 992px) {
   .bottom2_cont ul {
-    left: 50%;
-    transform: translateX(-50%);
-    -webkit-transform: translateX(-50%);
-    position: relative;
-    width: 40%;
+    /* left: 50%;*/
+    /* transform: translateX(-50%);*/
+    /* -webkit-transform: translateX(-50%);*/
+    /* position: relative;*/
+    /* width: 40%;*/
+    list-style-type: none;
+    padding: 0;
     padding-bottom: 25px;
   }
 }
@@ -6850,3 +6852,14 @@ nav {
   font-weight: 700;
   cursor: pointer;
 }
+/* ie mac only styles \*//*/
+.bottom2_cont {
+	float:none;
+	position:static;
+}
+.bottom2_cont ul {
+	position:static;
+	text-align:center;
+}
+.bottom2_cont ul li{float:none;position:static;display:inline-block}
+/* end iemac styles*/
