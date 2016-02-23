@@ -6875,9 +6875,6 @@ nav {
 	text-align:center;
 	white-space:nowrap;
 }
-#content {
-	overflow:hidden
-}/* hide horizontal scrollbar*/
 /* ie mac only styles \*//*/
 #buttons{
 	float:none;
