@@ -6855,6 +6855,7 @@ nav {
 	position:relative;
 	left:-50%;
 	text-align:left;
+	font-weight: 700;
 }
 #buttons ul {
 	list-style:none;
