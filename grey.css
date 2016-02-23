@@ -6850,39 +6850,3 @@ nav {
   font-weight: 700;
   cursor: pointer;
 }
-#buttons {
-	float:right;
-	position:relative;
-	left:-50%;
-	text-align:left;
-	font-weight: 700;
-}
-#buttons ul {
-	list-style:none;
-	position:relative;
-	left:50%;
-}
-#buttons li {
-	float:left;
-	position:relative;
-}/* ie needs position:relative here*/
-#buttons a {
-	text-decoration:none;
-	margin:10px;
-	float:left;
-	color:#fff;	
-	padding:2px 5px;
-	text-align:center;
-	white-space:nowrap;
-}
-/* ie mac only styles \*//*/
-#buttons{
-	float:none;
-	position:static;
-}
-#buttons ul{
-	position:static;
-	text-align:center;
-}
-#buttons li{float:none;position:static;display:inline-block}
-/* end iemac styles*/
