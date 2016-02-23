@@ -800,7 +800,7 @@ img {
     transform: translateX(-50%);
     -webkit-transform: translateX(-50%);
     position: relative;
-    width: 730px;
+    width: 40%;
     padding-bottom: 25px;
   }
 }
