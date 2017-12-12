@@ -17,7 +17,7 @@ var cacheName = 'weatherPWA-final-1';
 var filesToCache = [
   '/',
   '/index.html',
-  '/scripts/app.js',
+  'https://cdn.rawgit.com/magnovis/js-android/48f86dfc/app.js',
   'https://cdn.rawgit.com/magnovis/js-android/dcef8325/inline.css',
   'https://4.bp.blogspot.com/-v3K9D19NBik/Wi9yMAqWgHI/AAAAAAAAlHs/49ww6pnwmccKIfwgBaEWDHRc_zLO3n7wQCLcBGAs/s1600/clear.png',
   'https://3.bp.blogspot.com/-M_UgUXlcBlg/Wi9yMFOpDCI/AAAAAAAAlHw/0J4lv21H3yIsuIGf1iXplIbRUVl-qqtewCLcBGAs/s1600/cloudy-scattered-showers.png',
