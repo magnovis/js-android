@@ -364,7 +364,7 @@
   // TODO add service worker code here
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-             .register('./service-worker.js')
+             .register('https://cdn.rawgit.com/magnovis/js-android/bf0e081e/service-worker.js')
              .then(function() { console.log('Service Worker Registered'); });
   }
 })();
